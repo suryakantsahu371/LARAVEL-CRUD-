@@ -29,6 +29,8 @@ The Product Management System is designed to help administrators manage product 
 <li>✅ Follow Laravel MVC Architecture</li>
 </ul>
 
+<img src="/public/images/CRUD.png" alt="Laravel CRUD Dashboard" width="100%">
+
 <p>
 This project was developed to strengthen practical knowledge of Laravel fundamentals and backend development concepts commonly used in real-world applications.
 </p>
